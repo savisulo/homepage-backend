@@ -1,0 +1,9 @@
+POST http://localhost:3001/api/messages
+Content-Type: application/json
+
+{
+    "name": "Testilähettäjä",
+    "email": "joku@gmail.com",
+    "subject": "message",
+    "message": "hello!"
+}
