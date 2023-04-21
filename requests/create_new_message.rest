@@ -2,8 +2,8 @@ POST http://localhost:3001/api/messages
 Content-Type: application/json
 
 {
-    "name": "Testilähettäjä",
-    "email": "joku@gmail.com",
+    "name": "ville",
+    "email": "jjbuy@gmail.fi",
     "subject": "message",
     "message": "hello!"
 }
